@@ -12,8 +12,8 @@ Basic coding questions asked for coding assessments
 7. Valid Parentheses [Leetcode - 20]
 8. Longest Palindromic Substring  [Leetcode - 5]
 9. Valid Anagram  [Leetcode - 242]
-10. First Unique Character in a String
-11. Reverse String
+10. First Unique Character in a String  [Leetcode - 387]
+11. Reverse String  [Leetcode - 344]
 12. String to Integer (atoi)
 13. Implement strStr()
 14. Longest Common Prefix
