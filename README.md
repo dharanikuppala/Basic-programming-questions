@@ -26,8 +26,8 @@ Basic coding questions asked for coding assessments
 4. Lowest Common Ancestor of a Binary Tree [Leetcode - 236]
 5. Serialize and Deserialize Binary Tree  [Leetcode - 297]
 6. Binary Tree Zigzag Level Order Traversal  [Leetcode - 103]
-7. Validate Binary Search Tree
-8. Kth Smallest Element in a BST
+7. Validate Binary Search Tree [Leetcode - 98]
+8. Kth Smallest Element in a BST [Leetcode - 230]
 9. Populating Next Right Pointers in Each Node
 10. Path Sum II
 
