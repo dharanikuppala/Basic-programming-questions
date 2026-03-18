@@ -9,9 +9,9 @@ Basic coding questions asked for coding assessments
 4. Longest Substring Without Repeating Characters  [Leetcode - 3]  
 5. Container With Most Water  [Leetcode - 11]
 6. 3Sum  [Leetcode - 15]
-7. Valid Parentheses
-8. Longest Palindromic Substring
-9. Valid Anagram
+7. Valid Parentheses [Leetcode - 20]
+8. Longest Palindromic Substring  [Leetcode - 5]
+9. Valid Anagram  [Leetcode - 242]
 10. First Unique Character in a String
 11. Reverse String
 12. String to Integer (atoi)
