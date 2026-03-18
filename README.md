@@ -20,8 +20,8 @@ Basic coding questions asked for coding assessments
 
 ## TREES && BINARY SEARCH TREES
 
-1. Maximum Depth of Binary Tree
-2. Convert Sorted Array to Binary Search Tree
+1. Maximum Depth of Binary Tree  [Leetcode - 104]
+2. Convert Sorted Array to Binary Search Tree  [Leetcode - 108]
 3. Diameter of Binary Tree
 4. Lowest Common Ancestor of a Binary Tree
 5. Serialize and Deserialize Binary Tree
