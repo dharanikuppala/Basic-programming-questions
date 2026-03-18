@@ -14,9 +14,9 @@ Basic coding questions asked for coding assessments
 9. Valid Anagram  [Leetcode - 242]
 10. First Unique Character in a String  [Leetcode - 387]
 11. Reverse String  [Leetcode - 344]
-12. String to Integer (atoi)
-13. Implement strStr()
-14. Longest Common Prefix
+12. String to Integer (atoi)  [Leetcode - 8]
+13. Implement strStr() [Leetcode - ]
+14. Longest Common Prefix  [Leetcode - 14]
 
 ## TREES && BINARY SEARCH TREES
 
