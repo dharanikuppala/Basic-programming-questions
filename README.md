@@ -3,12 +3,12 @@ Basic coding questions asked for coding assessments
 
 ## ARRAYS && STRINGS
 
-1. Second largest element in an array
-2. Maximum Subarray [Leetcode - 53]
-3. Two Sum
-4. Longest Substring Without Repeating Characters
-5. Container With Most Water
-6. 3Sum
+1. Second largest element in an array  
+2. Maximum Subarray  [Leetcode - 53]  
+3. Two Sum  [Leetcode - 1]  
+4. Longest Substring Without Repeating Characters  [Leetcode - 3]  
+5. Container With Most Water  [Leetcode - 11]
+6. 3Sum  [Leetcode - 15]
 7. Valid Parentheses
 8. Longest Palindromic Substring
 9. Valid Anagram
