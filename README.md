@@ -28,7 +28,7 @@ Basic coding questions asked for coding assessments
 6. Binary Tree Zigzag Level Order Traversal  [Leetcode - 103]
 7. Validate Binary Search Tree [Leetcode - 98]
 8. Kth Smallest Element in a BST [Leetcode - 230]
-9. Populating Next Right Pointers in Each Node  
+9. Populating Next Right Pointers in Each Node  [Leetcode - 116]
 10. Path Sum II [Leetcode - 113]
 
 ## DYNAMIC PROGRAMMING
