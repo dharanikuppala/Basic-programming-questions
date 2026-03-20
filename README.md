@@ -35,7 +35,7 @@ Basic coding questions asked for coding assessments
 
 1. Climbing Stairs  [Leetcode - 70]
 2. House Robber [Leetcode - 198]
-3. Longest Increasing Subsequence
+3. Longest Increasing Subsequence  [Leetcode - 300]
 4. Coin Change
 5. Word Break
 6. Partition Equal Subset Sum
