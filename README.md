@@ -17,6 +17,7 @@ Basic coding questions asked for coding assessments
 12. String to Integer (atoi)  [Leetcode - 8]
 13. Implement strStr() [Leetcode - ]
 14. Longest Common Prefix  [Leetcode - 14]
+15. Leaders in an Array [TCS-NQT]
 
 ## TREES && BINARY SEARCH TREES
 
