@@ -34,3 +34,47 @@ Leaders = 17 5 2
 
 💡 Key Pattern = Right → Left traversal + track max
 */
+
+import java.util.*;
+
+class Leaders {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+
+        for(int i = 0; i < n; i++){
+            arr[i] = sc.nextInt();
+        }
+
+        int[] ans = leaders(arr, n);
+
+        for(int x : ans){
+            System.out.print(x + " ");
+        }
+    }
+
+    public static int[] leaders(int[] arr, int n){
+        ArrayList<Integer> list = new ArrayList<>();
+
+        int leader = Integer.MIN_VALUE;
+
+        // FIXED LOOP
+        for(int i = n - 1; i >= 0; i--){
+            if(arr[i] >= leader){
+                list.add(arr[i]);
+                leader = arr[i];
+            }
+        }
+
+        Collections.reverse(list);
+
+        int[] ans = new int[list.size()];
+        for(int i = 0; i < list.size(); i++){
+            ans[i] = list.get(i);
+        }
+
+        return ans;
+    }
+}
